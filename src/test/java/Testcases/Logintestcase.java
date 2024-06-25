@@ -13,6 +13,6 @@ public class Logintestcase extends LoginBaseclass {
 		lpa.passwordfield();
 		lpa.Loginbutton();
 		
-		
+			
 	}
 }
